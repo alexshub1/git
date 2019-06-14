@@ -4,3 +4,6 @@ This excercise has been created to test out git using common git commands. They 
 
 This has been a practice session using git commands to create, edit and manipulate files and folders, then using git and GitHub to push the 
 files to a local repository and then to a GitHub repo.
+
+Please use this link to view the README file which is hosted on GitHub Pages.
+https://alexshub1.github.io/git/
